@@ -5,7 +5,7 @@ This module provides functionality to count Christmas trees from data files.
 """
 
 import csv
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional
 from pathlib import Path
 
 
@@ -116,7 +116,7 @@ class ChristmasTreeCounter:
         
         return sum(heights) / len(heights) if heights else 0.0
     
-    def get_summary(self) -> Dict[str, any]:
+    def get_summary(self) -> Dict[str, Any]:
         """
         Get a comprehensive summary of the tree data.
         

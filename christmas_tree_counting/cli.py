@@ -3,7 +3,6 @@ Command-line interface for Christmas Tree Counting.
 """
 
 import sys
-import json
 from pathlib import Path
 from .counter import ChristmasTreeCounter
 
