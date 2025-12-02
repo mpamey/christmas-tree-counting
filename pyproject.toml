@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "christmas-tree-counting"
+version = "0.1.0"
+description = "A Python package for counting Christmas trees from data files"
+authors = ["mpamey"]
+readme = "README.md"
+packages = [{include = "christmas_tree_counting"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+count-trees = "christmas_tree_counting.cli:main"
