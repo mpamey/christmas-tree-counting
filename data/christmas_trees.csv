@@ -1,0 +1,21 @@
+tree_id,species,location,height_m,age_years,health_status
+1,Norway Spruce,North Forest,2.5,5,Excellent
+2,Douglas Fir,North Forest,3.2,7,Good
+3,Fraser Fir,East Garden,1.8,3,Excellent
+4,Noble Fir,West Grove,2.9,6,Good
+5,Norway Spruce,East Garden,2.1,4,Excellent
+6,Blue Spruce,South Meadow,4.5,10,Fair
+7,Douglas Fir,North Forest,3.8,8,Good
+8,Fraser Fir,West Grove,2.2,4,Excellent
+9,Norway Spruce,South Meadow,3.0,6,Good
+10,Noble Fir,East Garden,2.7,5,Excellent
+11,Blue Spruce,North Forest,5.2,12,Good
+12,Fraser Fir,South Meadow,1.9,3,Excellent
+13,Douglas Fir,West Grove,3.5,7,Good
+14,Norway Spruce,East Garden,2.3,4,Excellent
+15,Noble Fir,North Forest,3.1,6,Good
+16,Fraser Fir,South Meadow,2.0,3,Excellent
+17,Blue Spruce,West Grove,4.8,11,Fair
+18,Douglas Fir,East Garden,3.3,7,Good
+19,Norway Spruce,North Forest,2.6,5,Excellent
+20,Noble Fir,South Meadow,2.8,5,Good
